@@ -1,2 +1,2 @@
 # NPU-architectures
-This report is about Neural Processing Unit architectures. It has collated during undergraduate research of Yusuf Baran in Queen's University Belfast. 
+This report is about Neural Processing Unit architectures. It was compiled during the undergraduate research of Yusuf Baran at Queen's University Belfast.
